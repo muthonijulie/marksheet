@@ -44,8 +44,6 @@ public class marksheet {
 		System.out.println(sNo + "    " + studentName + "\t\t\t" + Sub1 +"\t" + Sub2 + "\t" + Sub3 + "\t" + Sub4 + "\t" + Sub5 +"\t" + total +"\t" + average);
 		System.out.println("__________________________________________________________________________________________");
 		System.out.println("                Average"+ "\t\t" + (int)sub1average + "\t" + (int)sub2average+ "\t" + (int)sub3average +"\t" + (int)sub4average+"\t"+ (int)sub5average+ "\t");
-				
-
-	}
+				}
 
 }
